@@ -1,7 +1,6 @@
-# Bookmarklets Collection
+# Bookmarklets
 
-A curated collection of handy JavaScript bookmarklets to streamline your web browsing and productivity. Drop them into your browser’s bookmarks bar to use with a single click.
-
+A curated collection of handy JavaScript bookmarklets to streamline your web browsing and productivity. Add them to your browser’s bookmarks bar for one-click access.
 
 
 *Happy browsing!*
